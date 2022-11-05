@@ -24,7 +24,7 @@ final Color m3BaseColor = Palette.primary[80]!;
 import 'package:example/palette.dart';
 // ...
 // Dark theme, background
-final Color m3BaseColor = Palette.neutral[10]!;
+final Color background = Palette.neutral[10]!;
 // Light theme, background
-final Color m3BaseColor = Palette.primary[99]!;
+final Color background = Palette.primary[99]!;
 ```
